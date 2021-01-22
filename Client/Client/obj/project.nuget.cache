@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G0AXrLxi2Pc6nPgoCZlo1lnOItgTBBXa7W4vH9KA9Jw0EEymhcoxfOzSORnEFmLtu5AYc06bxE/s6i7rpnVwwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\13099\\Desktop\\sspu\\C#\\Service\\Client\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\13099\\.nuget\\packages\\htmlagilitypack\\1.11.19\\htmlagilitypack.1.11.19.nupkg.sha512"
+  ],
+  "logs": []
+}
